@@ -8,13 +8,18 @@ const Header = props => (
     </div>
     <div className="content">
       <div className="inner">
-        <h1>Dimension</h1>
+        <h1>Sunergy</h1>
         <p>
-          A fully responsive site template designed by{' '}
-          <a href="https://html5up.net">HTML5 UP</a> and released
-          <br />
-          for free under the{' '}
-          <a href="https://html5up.net/license">Creative Commons</a> license.
+        SUNENRGY Engineering & Services is a
+        fast growing renewable energy company
+        established and managed by a group of
+        professional engineers.
+        <br></br>
+        NOW IN CHICHAWATNI<br></br>
+      Order Now!!<br></br>
+      +92-333-0482200<br></br>
+      sunergy.pak@gmail.com<br></br>
+
         </p>
       </div>
     </div>
